@@ -6,4 +6,6 @@ my environments
 
 - use zsh
 - add this to `${HOME}/.zshrc`
-  - `. ./zsh_common.sh`
+```
+. ./zsh_common.sh
+```
