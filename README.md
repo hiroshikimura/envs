@@ -2,10 +2,16 @@
 
 my environments
 
-# how to use it?
+# how to use this?
 
-- use zsh
-- add this to `${HOME}/.zshrc`
+1. use zsh
+1. add this to `${HOME}/.zshrc`
 ```
 . ./zsh_common.sh
 ```
+
+# licence
+
+Copyright (c) 2021 hiroshi kimura
+Released under the MIT license
+https://opensource.org/licenses/mit-license.php
