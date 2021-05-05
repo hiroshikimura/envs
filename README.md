@@ -8,6 +8,7 @@ my environments
 1. add this to `${HOME}/.zshrc`
 ```
 . ./zsh_common.sh
+. ./zsh_alias.
 ```
 
 # licence
